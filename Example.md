@@ -3,7 +3,8 @@ Held at the University of Cambridge on 5th July from 9am to 5pm
 <a name="TheTop"></a>
 ### Trainers
 Ash.    
-Mark.   
+Mark.
+Geoffrey.
 
 ## Topics
 Headings   
